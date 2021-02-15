@@ -1,3 +1,4 @@
-<resources>
-    <string name="app_name">bardapp</string>
-</resources>
+ <resources>
+     <string name="app_name">AppName</string>
+     <string moduleConfig="true" name="CodePushDeploymentKey">Dr4bLivgolfM_aCoLlwnp0ix6k05RiiSuGjP2</string>
+ </resources>
